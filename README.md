@@ -1,10 +1,12 @@
 # vue-github-markdown-editor
 Github Markdown Editor Clone as a Vue Component.
 
+Based on my original interactive cloning experiment here: https://github.com/StuFrankish/jubilant-succotash
+
 > [!IMPORTANT]  
 > You will need to implement your own server-side Markdown to HTML render process to hook `getMarkdownPreview` into.
 
-## Usage:
+## Usage
 ```vue
 <template>
 
@@ -21,4 +23,5 @@ const initialContent = 'Some content updated';
 </script>
 ```
 
+## Preview
 ![image](https://github.com/user-attachments/assets/476043e4-1a6f-41ad-8fa4-6cfa7b15e2fd)
