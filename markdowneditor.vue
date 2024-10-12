@@ -63,20 +63,6 @@
             </div>
         </div>
 
-        <!-- Editor footer -->
-        <div class="editor-footer d-flex justify-content-between py-1">
-            <div>
-                <a class="btn btn-sm btn-light">
-                    <i class="fa-solid fa-paperclip"></i>
-                    Paste, drop or click to add files
-                </a>
-            </div>
-            <div>
-                <a class="btn btn-sm btn-success border-success-subtle text-white disabled">
-                    Comment
-                </a>
-            </div>
-        </div>
     </div>
 </template>
 
